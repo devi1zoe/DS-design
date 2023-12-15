@@ -6,7 +6,9 @@
 
 仅仅为了存储自己学习的一些项目，若能帮到大家那真是太好啦
 
-其中界面配色参考https://github.com/Wanderson-Magalhaes/Modern_GUI_PyDracula_PySide6_or_PyQt6。
+界面配色参考https://github.com/Wanderson-Magalhaes/Modern_GUI_PyDracula_PySide6_or_PyQt6
+
+page3交互界面参考https://csacademy.com/app/graph_editor/
 
 ## 问题描述
 
